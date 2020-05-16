@@ -1,11 +1,11 @@
 # Hall Booking Android App
 #
 #
-**An android app which is used to book hall for various purposes. 
+**An android app which is used to book hall for various purposes**
 #
-**Frontend - Android **
+**Frontend - Android**
 #
-**Backend - Node.js ** 
+**Backend - Node.js Checkout Backend Module at: https://github.com/shivang1305/bookHall-backend** 
 #
 **Database - MYSQL**
 #
