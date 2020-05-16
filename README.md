@@ -34,6 +34,6 @@
     <td><img src="https://github.com/shivang1305/bookHall-android/blob/master/Screenshots/Receipt.jpeg"></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/shivang1305/bookHall-android/blob/master/Screenshots/SuccessDialog.jpeg"></td>
+    <td><img src="https://github.com/shivang1305/bookHall-android/blob/master/Screenshots/SuccessDailog.jpeg"></td>
   </tr>
 </table>
